@@ -262,13 +262,13 @@ ru:
   footer:
     legal: Соглашение
     privpolicy: Политика Конфиденциальности
-    powered_by: "Работает под управлением %{href}."
+    powered_by: "%{href}."
   forgot_password:
     subtitle: Забыл пароль
     email: Электронная почта
     submit: Отправить
   go_back: Вернуться
-  greenlight: Greenlight
+  citicom: Citicom
   header:
     all_recordings: Все записи
     dropdown:
