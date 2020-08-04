@@ -281,13 +281,13 @@ en:
   footer:
     legal: Terms
     privpolicy: Privacy Policy
-    powered_by: %{href}.
+    powered_by: Powered by %{href}.
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  citicom: Citicom
+  greenlight: Greenlight
   header:
     all_recordings: All Recordings
     dropdown:
