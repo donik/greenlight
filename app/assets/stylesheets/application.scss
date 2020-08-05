@@ -60,7 +60,8 @@ html, body {
 }
 
 .full-screen-background {
-  background: url("../images/main-bacground.jpg") center no-repeat;
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
 }
 
