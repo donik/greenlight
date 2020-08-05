@@ -59,6 +59,11 @@ html, body {
   background-color: white;
 }
 
+.full-screen-background {
+  background: url("../images/main-bacground.jpg") center no-repeat;
+  background-size: cover;
+}
+
 a {
   text-decoration: none !important;
   cursor: pointer;
