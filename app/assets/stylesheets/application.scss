@@ -65,6 +65,21 @@ html, body {
   background-size: cover;
 }
 
+.header .d-flex {
+  position: relative;
+}
+
+.header .d-flex .header-brand {
+  position: absolute;
+  left: 0;
+  top: -1rem;
+  bottom: 0;
+}
+
+.header .d-flex .header-brand .header-brand-img {
+  height: 4rem;
+}
+
 a {
   text-decoration: none !important;
   cursor: pointer;
@@ -142,17 +157,18 @@ a {
 .cookies-banner {
   color: white;
   background-color: $button-color-blue;
+
   #cookies-agree-button {
     margin: 0;
   }
 }
 
 input:focus {
-    border-color: $primary !important;
+  border-color: $primary !important;
 }
 
 .input-group button:focus {
-    box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 .list-group-item-action.active {
@@ -182,7 +198,7 @@ table {
   }
 }
 
-.cursor-pointer{
+.cursor-pointer {
   cursor: pointer;
 }
 
